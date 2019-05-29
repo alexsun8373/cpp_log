@@ -1,0 +1,19 @@
+[2019-05-29.01:51:03]Info:message to be logged
+[2019-05-29.01:51:03]Info:logg message 1 ...
+[2019-05-29.01:51:03]Info:Binary string of number a is = 10100!
+[2019-05-29.01:52:46]Info:message to be logged
+[2019-05-29.01:52:46]Info:logg message 1 ...
+[2019-05-29.01:52:46]Info:Binary string of number a = 10100!
+[2019-05-29.01:52:46]Info:Binary string of number Tested Value: = 10100!
+[2019-05-29.01:56:41]Info:message to be logged
+[2019-05-29.01:56:41]Info:logg message 1 ...
+[2019-05-29.01:56:41]Info:Binary string of number a = 10100!
+[2019-05-29.01:56:41]Info:Binary string of number Tested Value: = 38!
+[2019-05-29.01:57:28]Info:message to be logged
+[2019-05-29.01:57:28]Info:logg message 1 ...
+[2019-05-29.01:57:28]Info:Binary string of number a = 10100!
+[2019-05-29.01:57:28]Info:Binary string of number Tested Value: = 0x38!
+[2019-05-29.02:09:55]Info:Binary string of number a = 10100!
+[2019-05-29.02:09:55]Info:Binary string of number Tested Value: = 0x38!
+[2019-05-29.02:12:05]Info:Binary string of number a = 0b10100!
+[2019-05-29.02:12:05]Info:Binary string of number Tested Value: = 0x38!
